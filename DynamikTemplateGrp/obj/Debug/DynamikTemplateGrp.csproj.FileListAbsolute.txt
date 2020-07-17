@@ -81,3 +81,7 @@ C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\obj\Debug\Dyn
 C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\obj\Debug\DynamikTemplateGrp.csproj.CopyComplete
 C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\obj\Debug\DynamikTemplateGrp.dll
 C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\obj\Debug\DynamikTemplateGrp.pdb
+C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\bin\EntityFramework.dll
+C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\bin\EntityFramework.SqlServer.dll
+C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\bin\EntityFramework.xml
+C:\Users\Privat\source\repos\DynamikTemplateGrp\DynamikTemplateGrp\bin\EntityFramework.SqlServer.xml
